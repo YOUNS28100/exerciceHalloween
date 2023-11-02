@@ -1,0 +1,9 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: orangered;
+}
