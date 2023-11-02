@@ -13,6 +13,7 @@ function Body({ list }) {
             <div className="info">
               <p>Price: {l.prix}</p>
               <p>Stock: {l.stock}</p>
+              <p>Description: {l.description}</p>
               <p>category: {l.category}</p>
             </div>
           </div>
