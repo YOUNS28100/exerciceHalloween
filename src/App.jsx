@@ -1,3 +1,6 @@
+import Footer from "./components/Footer";
+import Body from "./components/Body";
+
 const stockHalloween = [
   {
     name: "Mucha",
@@ -130,7 +133,12 @@ const stockHalloween = [
 ];
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Body list={stockHalloween} />
+      <Footer />
+    </>
+  );
 }
 
 export default App;
