@@ -1,3 +1,4 @@
+import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Body from "./components/Body";
 
@@ -151,6 +152,7 @@ const stockHalloween = [
 function App() {
   return (
     <>
+      <Header />
       <Body list={stockHalloween} />
       <Footer />
     </>
