@@ -6,4 +6,5 @@ footer {
   display: flex;
   justify-content: space-around;
   background-color: orangered;
+  border-radius: 50px;
 }

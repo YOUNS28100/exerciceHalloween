@@ -9,6 +9,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 140,
     stock: 1,
+    description: "Lorem Ipsum",
     category: "cat",
   },
   {
@@ -17,6 +18,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 500,
     stock: 1,
+    description: "Lorem Ipsum",
     category: "cat",
   },
   {
@@ -25,6 +27,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 60,
     stock: 4,
+    description: "Lorem Ipsum",
     category: "cat",
   },
   {
@@ -33,6 +36,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 69,
     stock: 6,
+    description: "Lorem Ipsum",
     category: "gnomes",
   },
   {
@@ -41,6 +45,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 46,
     stock: 2,
+    description: "Lorem Ipsum",
     category: "gnomes",
   },
   {
@@ -49,6 +54,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 99,
     stock: 9,
+    description: "Lorem Ipsum",
     category: "gnomes",
   },
   {
@@ -57,6 +63,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 30,
     stock: 2,
+    description: "Lorem Ipsum",
     category: "gnomes",
   },
   {
@@ -65,6 +72,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 209,
     stock: 12,
+    description: "Lorem Ipsum",
     category: "gnomes",
   },
   {
@@ -73,6 +81,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 398,
     stock: 1,
+    description: "Lorem Ipsum",
     category: "nains",
   },
   {
@@ -81,6 +90,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 48,
     stock: 2,
+    description: "Lorem Ipsum",
     category: "nains",
   },
   {
@@ -89,6 +99,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 82,
     stock: 23,
+    description: "Lorem Ipsum",
     category: "nains",
   },
   {
@@ -97,6 +108,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 976,
     stock: 2,
+    description: "Lorem Ipsum",
     category: "nains",
   },
   {
@@ -105,6 +117,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 10,
     stock: 26,
+    description: "Lorem Ipsum",
     category: "courges",
   },
   {
@@ -113,6 +126,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 20,
     stock: 45,
+    description: "Lorem Ipsum",
     category: "courges",
   },
   {
@@ -121,6 +135,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 17,
     stock: 200,
+    description: "Lorem Ipsum",
     category: "courges",
   },
   {
@@ -129,6 +144,7 @@ const stockHalloween = [
       "https://astatic.aquamagasin.com/image/cache/catalog/pieces-detachees/visuel-non-disponible-600x600.jpg",
     prix: 12,
     stock: 2,
+    description: "Lorem Ipsum",
     category: "courges",
   },
 ];
