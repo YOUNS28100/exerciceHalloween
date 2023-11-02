@@ -1,3 +1,5 @@
+import Header from "./components/Header";
+
 const stockHalloween = [
   {
     name: "Mucha",
@@ -130,7 +132,11 @@ const stockHalloween = [
 ];
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 }
 
 export default App;
