@@ -1,7 +1,8 @@
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Body from "./components/Body";
-
+import { useState } from "react";
+import "./App.scss";
 const stockHalloween = [
   {
     name: "Mucha",
@@ -150,10 +151,11 @@ const stockHalloween = [
 ];
 
 function App() {
+  const [counter, setCounter] = useState(0);
   return (
     <>
-      <Header />
-      <Body list={stockHalloween} />
+      <Header counter={counter} />
+      <Body setCounter={setCounter} list={stockHalloween} />
       <Footer />
     </>
   );
