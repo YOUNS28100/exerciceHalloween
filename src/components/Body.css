@@ -1,7 +1,13 @@
-section {
+.title {
+  text-align: center;
+  margin-top: 3%;
+  font-size: 2.5em;
+  text-decoration: underline;
+}
+
+.block {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(6, 1fr);
 }
 
 .grid {
