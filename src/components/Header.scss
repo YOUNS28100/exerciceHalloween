@@ -1,14 +1,31 @@
+<<<<<<< HEAD
+=======
+$blackground-color: #4b0082;
+
+>>>>>>> 8f0fb54b8ef7703fa0c2116d263d3d5ff35c2007
 * {
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 .header {
   display: flex;
   flex-direction: row;
   border-radius: 50px;
   justify-content: space-between;
   background-color: blueviolet;
+=======
+.logo {
+  background-color: $blackground-color;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: $blackground-color;
+>>>>>>> 8f0fb54b8ef7703fa0c2116d263d3d5ff35c2007
   margin: 20px 20px;
   align-items: center;
   font-size: 2.5em;
@@ -16,6 +33,10 @@
 
 .name {
   font-size: 2em;
+<<<<<<< HEAD
+=======
+  background-color: $blackground-color;
+>>>>>>> 8f0fb54b8ef7703fa0c2116d263d3d5ff35c2007
 }
 
 .logo img {
@@ -29,4 +50,12 @@
 .menu {
   cursor: pointer;
   padding: 20px;
+<<<<<<< HEAD
+=======
+  background-color: $blackground-color;
+}
+
+.menu span {
+  background-color: $blackground-color;
+>>>>>>> 8f0fb54b8ef7703fa0c2116d263d3d5ff35c2007
 }
