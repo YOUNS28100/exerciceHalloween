@@ -5,6 +5,7 @@ function Body({ list, setCounter }) {
   const handleClick = () => {
     setCounter((counter) => counter + 1);
   };
+
   function filtermap(filter, filter2) {
     return (
       <section>
@@ -45,6 +46,7 @@ function Body({ list, setCounter }) {
       </section>
     );
   }
+
   return (
     <section>
       <span>{filtermap("cat")}</span>

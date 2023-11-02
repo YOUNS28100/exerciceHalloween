@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Body from "./components/Body";
+import Highlight from "./components/Hightlight";
 import { useState } from "react";
 import "./App.scss";
 const stockHalloween = [
@@ -155,6 +156,7 @@ function App() {
   return (
     <>
       <Header counter={counter} />
+      <Highlight list={stockHalloween} />
       <Body setCounter={setCounter} list={stockHalloween} />
       <Footer />
     </>
