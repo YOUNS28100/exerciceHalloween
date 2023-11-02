@@ -156,7 +156,7 @@ function App() {
   return (
     <>
       <Header counter={counter} />
-      <Highlight list={stockHalloween} />
+      <Highlight setCounter={setCounter} list={stockHalloween} />
       <Body setCounter={setCounter} list={stockHalloween} />
       <Footer />
     </>
