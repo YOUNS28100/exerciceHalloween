@@ -9,6 +9,11 @@ section {
   text-align: center;
 }
 
+.stock {
+  font-weight: bold;
+  background-color: red;
+}
+
 img {
   width: 20%;
 }
