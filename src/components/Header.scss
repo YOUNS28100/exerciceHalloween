@@ -5,6 +5,13 @@ $blackground-color: #4b0082;
   box-sizing: border-box;
 }
 
+.header {
+  display: flex;
+  flex-direction: row;
+  border-radius: 50px;
+  justify-content: space-between;
+}
+
 .logo {
   background-color: $blackground-color;
 }
